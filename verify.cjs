@@ -23,7 +23,7 @@ function harness(brokenStorage=false){
  FormData:class {constructor(target){this.data=target.answers}get(k){return this.data[k]}},
  URL:{createObjectURL:()=> 'blob:test',revokeObjectURL(){}},window:{scrollTo(){}},fetch:async()=>({ok:true,json:async()=>({chatReady:false,ttsReady:false})}),
  document:{getElementById:element,querySelector:()=>null,querySelectorAll:()=>[],addEventListener(type,fn){events[type]=fn},documentElement:{lang:'zh'},body:{classList:{toggle:()=>true,add(){},remove(){}},appendChild(){}},createElement:()=>({click(){downloads.push(this.download)},remove(){}})}};
- vm.createContext(ctx);for(const name of ['catalog.js','library-data.js','case-illustrations.js','scene-art.js','i18n.js','voice.js','voice-lab.js'])vm.runInContext(fs.readFileSync(path.join(root,'public',name),'utf8'),ctx);
+ vm.createContext(ctx);for(const name of ['catalog.js','library-data.js','library-speech.js','scene-specs.js','scene-3d.js','case-illustrations.js','scene-art.js','i18n.js','voice.js','voice-lab.js'])vm.runInContext(fs.readFileSync(path.join(root,'public',name),'utf8'),ctx);
  const source=fs.readFileSync(path.join(root,'public/app.js'),'utf8').replace('home();V.refreshStatus()',"globalThis.__qa={getScreen:()=>screen,getSession:()=>session,getLast:()=>last,getTopic:()=>topic()};home();V.refreshStatus()");vm.runInContext(source,ctx);
  return {ctx,element,storage,downloads,state:ctx.__qa,change(setting,value){events.change({target:{dataset:{setting},value}})},click(action,extra={}){events.click({target:{closest:()=>({dataset:{action,...extra}})}})},submit(type,correct=true){element('quiz-form').listeners.submit({preventDefault(){},target:{answers:Object.fromEntries([0,1,2].map(i=>['q'+i,String(correct?(i+1)%3:i)]))}})}};
 }
@@ -39,7 +39,7 @@ for(const locale of ['zh','sc','en']){const h=harness();h.click('locale',{locale
 (async()=>{
  const workerSource=fs.readFileSync(path.join(root,'dist/server/index.js'),'utf8');const {default:worker}=await import('data:text/javascript;base64,'+Buffer.from(workerSource).toString('base64'));
  const origin='https://fayi.example',ip='192.0.2.1';const req=(path,body,extra={},cookie='')=>new Request(origin+path,{method:body===undefined?'GET':'POST',headers:{Origin:origin,'Content-Type':'application/json','cf-connecting-ip':ip,...(cookie?{Cookie:cookie}:{}),...extra},...(body===undefined?{}:{body:typeof body==='string'?body:JSON.stringify(body)})});
- let r=await worker.fetch(req('/api/status'),{});assert.deepEqual(await r.json(),{chatReady:false,ttsReady:false,doubaoReady:false,version:'0.6.0'});checks++;
+ let r=await worker.fetch(req('/api/status'),{});assert.deepEqual(await r.json(),{chatReady:false,ttsReady:false,doubaoReady:false,version:'0.7.0'});checks++;
  r=await worker.fetch(req('/'),{});assert.equal(r.status,200);assert.match(await r.text(),/catalog.js/);checks++;
  r=await worker.fetch(req('/assets/fayi-logo-transparent-v5.png'),{});assert.equal(r.headers.get('Content-Type'),'image/png');assert.equal(r.status,200);checks++;
  r=await worker.fetch(req('/api/chat',{question:'test'}),{});assert.equal(r.status,503);checks++;

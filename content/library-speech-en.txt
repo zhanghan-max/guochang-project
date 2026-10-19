@@ -1,0 +1,451 @@
+# English narration draft. Each block follows the eight original case IDs in order.
+[t01]
+You are asked to buy a six-month health supplement package when collecting free eggs.
+A seminar claims that ordinary food products can replace medical treatment.
+A salesperson says you must buy something immediately because you accepted a gift.
+After a health check, someone urges you to pay for a wellness service immediately.
+A shop assistant asks you to pay for health supplements into a personal account.
+The seller promises a refund but refuses to put the promise in writing.
+A product recommended by an acquaintance has no traceable manufacturer information.
+A supposedly free trial reveals expensive consumable charges only after it ends.
+[t02]
+A care facility promises long-term discounts if you pay a large bed reservation fee first.
+A facility demands a non-refundable membership fee before you move in.
+The room shown during your visit differs from the room described in the agreement.
+Staff only give a verbal promise about how often care will be provided.
+A service card can only be used with a different company.
+Previously undisclosed deductions appear when you request a refund.
+A family member receives an unfamiliar QR code requesting an additional payment.
+After changing its name, a care facility asks you to sign a blank agreement again.
+[t03]
+An investment chat group advertises large fixed monthly returns.
+A salesperson claims a project is government-backed but has no verifiable documents.
+An investment account can only be topped up through a privately sent link.
+You are asked to pay an additional unfreezing fee before withdrawing money.
+An acquaintance says you will earn an extra rebate by recruiting two people.
+A livestream presenter tells you to buy investments based on supposed inside information.
+Someone demands secrecy and says you must not consult your family.
+A project bundles care-home beds with promises of cash interest payments.
+[t04]
+A caller says your parcel is lost and asks you to open a compensation account first.
+A customer service agent demands phone screen sharing before processing a refund.
+Someone asks for your text message verification code to confirm your identity.
+A refund link asks you to enter your bank card password.
+A fake customer service agent says you must transfer money to cancel an accidental membership.
+Someone tells you to take out a loan before following their refund instructions.
+An agent claims a failed refund requires another verification payment.
+A stranger accurately describes your order and then urges you to transfer money.
+[t05]
+Your child contacts you from a new account, suddenly asking for urgent surgery money.
+A relative sends only voice messages asking for money and refuses a live call.
+A friend says their phone is broken and asks you to pay an unfamiliar order for them.
+Someone you recognize in a video asks you to transfer money to another person's account.
+An account using the same profile picture as someone you know asks to borrow money in a group.
+Someone says you must not call because it would interrupt their business.
+A family member's chat account asks you to buy top-up cards and send the codes.
+A relative or friend says a parcel can only be released after you pay a fee.
+[t06]
+A caller claims your account is involved in a case and demands a transfer to a safe account.
+Someone sends an electronic arrest warrant through a chat app.
+Someone insists that you stay alone and keep your camera on throughout the conversation.
+A supposed police officer asks you to install remote control software.
+Someone claims you must not verify their story with anybody else.
+Someone says a security deposit will erase a case record.
+A uniformed person on video asks you to read out a verification code.
+A stranger asks for photos of both sides of your bank card for an investigation.
+[t07]
+Your child appears in a video and asks you to transfer money to a new account immediately.
+A video of a leader's speech recommends an unfamiliar investment platform.
+A voice sounds like a relative but does not answer any identity-checking questions.
+A group receives a fabricated photo showing you at an event you never attended.
+Someone uses your voice to ask your relatives and friends for money.
+A health expert's video directs you to buy unidentified products.
+A video call lasts only a few seconds before the caller urges you to pay.
+An unfamiliar platform requires a family photo before you can claim a subsidy.
+[t08]
+A text message says your pension verification has expired and asks you to follow a link.
+A message warning that points will expire asks you to link a bank card.
+A parcel text message asks you to upload a photo of an identity document.
+You receive a login verification code that you never requested.
+An unfamiliar app asks to read your entire contact list.
+A notice says your phone service will stop unless you transfer money to an individual.
+Scanning a QR code in a community group opens a payment page.
+A downloaded cleaner app repeatedly demands unrelated permissions.
+[t09]
+A locksmith quotes a high price only after dismantling your door lock.
+An appliance repairer describes a minor fault as requiring the whole appliance to be scrapped.
+A cleaning service adds several compulsory charges after arriving at your home.
+A repair advertisement in the community misuses a brand's logo.
+A repairer asks you to scan a code and pay an unfamiliar individual.
+A repairer demands replacement of all parts before carrying out any inspection.
+A repairer takes away old parts but provides no list of replacements.
+You are verbally told that all repairs cost money, even during the warranty period.
+[t10]
+The caregiver assigned by a platform differs from the person described in the contract.
+A domestic worker unexpectedly asks for an additional overnight fee.
+A company verbally claims it accepts no responsibility for damaged belongings.
+An intermediary takes your payment without providing company information.
+The service hours are quietly reduced when you renew the agreement.
+Staff urge you to sign while fields in the agreement remain blank.
+A care handover has no list of medicines or personal belongings.
+Someone uses a personal chat account to collect a full year's service fee.
+[t11]
+The appliance delivered to you is a different model from the one you ordered.
+Food bought online has no manufacturer information on its packaging.
+A seller says you must withdraw your complaint before receiving a refund.
+The return address keeps changing in the chat conversation.
+A seller deducts the value of a free gift from your return payment.
+After-sales staff ask you to leave the platform and pay a separate repair fee.
+After accepting a parcel, you discover that its functions differ from the advertisement.
+The order says a refund was issued, but it is unclear where the money went.
+[t12]
+A livestream presenter says there is only one minute left to buy a product.
+A livestream calls an item pure gold, while the product page only says alloy.
+A presenter promises unconditional returns but provides no written explanation.
+A livestream describes an ordinary product as a medical treatment product.
+A private customer service message says payment outside the platform will be cheaper.
+The gift box delivered contains fewer items than shown in the livestream.
+An advertised identical product is shipped by a different business.
+A presenter asks viewers to pay a deposit before disclosing the total price.
+[t13]
+You receive a payment-on-delivery parcel even though you ordered nothing.
+An unfamiliar parcel contains a QR code claiming that you won a prize.
+A message says your address is incomplete and asks for a redelivery fee.
+A caller claiming to be a courier asks for a payment verification code.
+A parcel includes a card offering cashback for fake shopping orders.
+A supposed warehouse worker says your parcel is involved in a case and demands a deposit.
+A notice asks you to return supposedly overpaid compensation first.
+An unfamiliar link claims a delivery problem and asks for your identity document.
+[t14]
+A low-cost tour adds several compulsory charges after departure.
+A guide verbally promises no shopping stops, but the contract includes them.
+A supposedly subsidized tour requires an expensive membership payment first.
+The itinerary switches hotels without explaining the replacement standard.
+The recipient of your tour booking payment is an unidentified individual.
+You are asked to sign a blank confirmation form before the tour begins.
+Cancellation deductions differ from the original explanation.
+A stranger in a group offers to book tickets and asks for identity document photos.
+[t15]
+After viewing a property, you are urged to pay a deposit without seeing proof of rental authority.
+The conditions for returning a rental deposit are only discussed verbally.
+Existing property damage is neither photographed nor recorded at handover.
+A new landlord demands that you pay the same rent again.
+A renewal adds charges without providing a new agreement.
+An agent says you can sign the contract now and fill in the amount later.
+New cleaning deductions appear when you move out.
+A family member signs a lease for you without knowing the scope of their authorization.
+[t16]
+Water leaks from upstairs, but both sides give different accounts of its source.
+Objects left in a shared corridor obstruct passage for a long time.
+Parking charges differ from the posted notice.
+A neighbor's construction work repeatedly disturbs your rest.
+A shared facility is damaged, but nobody explains the repair arrangements.
+Property management asks residents to sign a blank statement of circumstances.
+Someone films in the corridor and publicly reveals your door number.
+Changes to a shared area begin without an explanation of the detailed plan.
+[t17]
+A relative asks you to sign a property document you do not understand.
+Someone keeps your important documents and then prevents you from viewing them.
+Family members say you only need to give a fingerprint and do not need to read the agreement.
+Housing arrangements rely on an old verbal promise.
+Someone drafts a document expressing your wishes but will not let you check it.
+Account details and amounts in a property inventory are inaccurate.
+A relative or friend asks you to sign an authorization form that will be completed later.
+Family members disagree about the purpose of a large expense.
+[t18]
+Family members have different understandings of the care schedule.
+An older person does not know who manages the monthly expenses.
+Family members have no handover record for medical expenses.
+A caregiver is replaced at short notice without anyone confirming the handover details.
+Someone asks an older person to give up access to their own accounts.
+A family member posts a recording of a dispute directly into a public group.
+Family members disagree about the scope of authorization for handling paperwork.
+Care expenses appear only as scattered transfers with no explanation of their purpose.
+[t19]
+After a temporary job ends, the intermediary says someone else must pay the wages.
+The piecework rate differs from what was stated during recruitment.
+A cash payment has no matching list of completed work.
+A work organizer asks you to sign a payment receipt before actually paying you.
+Unexplained fees are arbitrarily deducted from temporary work payments.
+You are told to change all recorded work hours to one standard duration.
+After a change of supervisor, the original pay agreement becomes unclear.
+The recruitment group closes and you cannot find the payment contact.
+[t20]
+An acquaintance borrows money with only a vague promise to repay it someday.
+A friend asks you to sign an unclear loan document as a witness.
+A transfer note does not reflect the originally agreed purpose.
+A borrower asks you to transfer the money to a different person.
+Someone proposes a new loan to repay an old one without listing the old balance.
+Someone says signing as a guarantor is just a formality.
+A relative asks you to take out a loan that you will not use yourself.
+After partial repayment, both sides disagree about the remaining balance.
+[t21]
+Someone in the village verbally claims a payment can change land arrangements.
+The area stated in an application differs from your own records.
+An unfamiliar intermediary promises to handle paperwork but gives no receipt.
+A notice asks you to sign a form whose attachments are missing.
+Family members remember an earlier land-use arrangement differently.
+A public notice contains an incorrect name and plot number.
+Someone demands that you leave original documents with an individual for a long time.
+Two inconsistent explanations appear about the same matter.
+[t22]
+Agricultural supplies arrive in packaging different from what the salesperson displayed.
+A seller only gives a verbal guarantee that a product suits every crop.
+The shipping date changes repeatedly after you pay in advance.
+A delivered agricultural product has no clear label information.
+A promoter asks you to pay a security deposit into a personal account.
+The delivery quantity is short, but the seller asks you to confirm full receipt first.
+Return and exchange conditions are not written into the order.
+Written product instructions contradict the seller's verbal recommendation.
+[t23]
+A stranger says they need your bank card password to help you collect a subsidy.
+The recipient displayed after scanning a payment code differs from the person you know.
+A supposed bank caller asks you to download a remote control program.
+A relative helping with your phone enables password-free payments that you do not understand.
+After a mistaken transfer, someone offers to recover the money for an advance fee.
+You sell an old phone without signing out of its payment accounts.
+The amount on a transfer screen differs from the amount discussed verbally.
+An unfamiliar mini app asks you to upload a complete photo of your bank card.
+[t24]
+After clicking a trial offer, you discover automatic monthly charges.
+A livestream presenter privately promises a meeting if you send paid gifts.
+A pop-up repeatedly prompts you to buy unidentified gift packages.
+A family member discovers several unfamiliar charges on an account.
+An assistant to a presenter asks for further transfers outside the platform.
+The subscription cancellation page differs from the advertised instructions.
+A free teaching group later turns into an expensive long-term course.
+After selling a service, someone asks you to delete the original payment records.
+[t25]
+A business uses your activity photo in a health supplement advertisement.
+Community registration asks for information unrelated to the matter being handled.
+A gift-for-photo activity does not explain how the photo will be used.
+A relative shares a photo of your identity document in a large group.
+An unfamiliar app asks for ongoing access to your entire photo library.
+Someone adds your name and home address to a controversial video.
+A service worker uses a personal phone to photograph your complete medical records.
+The face in a short video is replaced with a likeness of your face.
+[t26]
+A high-paying part-time job requires an introduction fee in advance.
+After passing an interview, you are told to buy a specified uniform.
+A recruiter only operates in a chat group and refuses to identify the company.
+An advertised clerical job turns into promoting card applications when you arrive.
+A recruiter asks you to pay an equipment deposit first.
+After one day of work, you are told you must buy a membership first.
+A campus agent says you must recruit people into a group to receive your wages.
+An applicant is told to take out a loan to pay training fees first.
+[t27]
+After small payouts for liking posts, a task asks you to place expensive fake orders.
+A group administrator says you cannot withdraw until a combined set of orders is finished.
+A fake-order account shows a negative balance and asks you to pay more.
+An assistant says an operating error requires a repair fee.
+A task platform asks for your bank card verification code.
+A commission can only be collected through an unfamiliar top-up website.
+Someone claims to have advanced money for you and demands repayment.
+Other people in the group display earnings and urge you to put in more money.
+[t28]
+An interview turns into a requirement to enroll in an expensive skills course first.
+Staff operate your phone to apply for installment payments.
+The contract describes training services, while the advertisement promises direct employment.
+Someone promises you will not need to repay a loan if you cannot find a job.
+When you cancel a course, you are told loan charges will continue.
+Only the monthly installment is shown at signing, with no total cost.
+Three agreements contain three different company names.
+An admissions worker tells you to hide your student status when applying for a loan.
+[t29]
+A caller claiming to be a student aid center asks for a certification payment first.
+A text says a grant has arrived and asks you to open a link and enter a password.
+An unfamiliar group announces a time-limited hardship subsidy.
+A caller asks you to share your screen to verify your student registration.
+Someone asks you to transfer scholarship money back to a personal account.
+A fake teacher asks parents to scan a code to pay a student aid handling fee.
+A grant notice asks you to upload an entire household registration record.
+Someone says checking with your counselor will invalidate your place.
+[t30]
+A ticket reseller says you must transfer a deposit before seeing the ticket.
+An electronic ticket screenshot is presented as the only guarantee of entry.
+Just before a performance, a seller demands another name-change fee.
+A ticket-booking service only verbally guarantees that it will secure tickets.
+An unfamiliar link asks for your payment password to validate a ticket.
+Ticket transfer rules differ from what the seller told you.
+After a performance is canceled, someone charges a fee to arrange a refund.
+A seller of supposed insider tickets tells you not to verify with the official organizer.
+[t31]
+A seller says it will be cheaper if you pay outside the platform.
+A second-hand phone arrives in a different model from the description.
+A seller urges you to confirm receipt before inspecting the goods.
+A supposed customer service agent demands a deposit to unfreeze a transaction.
+At an in-person exchange, the other party changes the payment account.
+A product defect is mentioned only vaguely in chat.
+A seller asks you to advance an unexplained shipping insurance payment.
+A person handling a refund asks for an additional recovery fee.
+[t32]
+After buying a game account, the seller demands another fee to change its linked details.
+A cheap game top-up service asks for your full payment account details.
+A stranger says you must scan a login code to receive a free game skin.
+A trading platform demands a verification payment before withdrawal.
+A game-leveling service asks you to turn off every security protection.
+A supposed agent says your account is involved in a case and needs a transfer to unlock it.
+Buying game equipment requires you to install an unfamiliar plugin.
+Someone uses a payment screenshot to urge you to hand over your account first.
+[t33]
+You are asked for a non-refundable room reservation fee before viewing the property.
+The payment recipient in the contract is not the person offering the property.
+A prospective roommate says they can sign other people's names for them.
+The electricity rate is disclosed only after you move in.
+Your deposit is withheld at move-out without a detailed deduction list.
+The room's actual partitions differ from the viewing photos.
+An agent takes away the contract and provides no complete copy.
+A renewal price changes at short notice through verbal notice only.
+[t34]
+After a roommate damages a borrowed computer, both sides give different accounts.
+A parcel collected for someone else goes missing with no handover record.
+Nobody has clarified who pays for shared electrical appliances.
+Someone turns a roommate's photo into a meme without consent.
+Dormitory entrance surveillance footage is posted in a group.
+An unfamiliar senior student visits and demands that you buy an essential package.
+Belongings are mistaken for abandoned items during a dormitory move.
+At graduation, roommates disagree about dividing jointly purchased belongings.
+[t35]
+Takeaway packaging arrives damaged and the cause is unclear.
+The ordering page does not clearly disclose additional fees.
+A meal's main ingredients clearly differ from the listed ingredients.
+A restaurant asks you to withdraw a platform complaint before discussing the issue.
+An unknown service fee is added to a group meal package at checkout.
+The refund conditions for a table reservation deposit are unclear.
+A prepaid dining card stops working after the business changes locations.
+After you notice a suspected foreign object, staff ask you to throw the food away first.
+[t36]
+A parcel collection message demands payment on an unfamiliar website.
+You receive a cash-on-delivery parcel that you never bought.
+A parcel compensation agent asks to share your phone screen.
+A parcel contains a QR code advertising cashback for fake orders.
+After you collect a parcel for someone else, someone claims you must cover all losses.
+A delivery problem notice asks for your bank card verification code.
+A return parcel is redirected to a temporary personal address.
+Someone claims to have over-refunded shipping fees and demands an immediate personal transfer.
+[t37]
+An internship advertised as technical work turns into sales.
+You are told to sign an agreement before finishing reading it.
+An internship provider unexpectedly demands a management fee.
+Attendance records differ from the time you actually arrived for work.
+An organization asks an intern to sign another person's work documents.
+Accommodation and travel expenses are announced only after the internship starts.
+At the end of an internship, the organization refuses to explain how pay will be settled.
+A third-party intermediary asks you to conceal the actual internship location.
+[t38]
+The salary in an offer letter differs from the amount in the contract.
+A company asks you to sign a resignation document with the date left blank.
+Your original identity document is retained when you start work.
+You still have not been given your copy of the employment contract.
+The probation arrangements differ from the recruitment explanation.
+Your work location is changed to a city that was never mentioned.
+Staff say you do not need to read the non-compete clause.
+The contracting company differs from the company that actually assigns your work.
+[t39]
+After a part-time job ends, the other party denies the agreed hourly rate.
+A payslip contains unexplained deductions.
+A supervisor asks you to confirm full settlement before making payment.
+The commission calculation differs from the recruitment advertisement.
+Your work hours suddenly disappear from the scheduling app.
+A cash wage receipt does not identify the month it covers.
+After leaving a job, you cannot find the payment contact.
+An employer asks to replace unpaid wages with goods.
+[t40]
+A classmate promises to repay a loan at month-end but leaves no written record.
+After jointly running a stall, both partners give different accounts of the costs.
+You advance money for an activity but keep no bills.
+A friend asks you to take out an online loan for somebody else's spending.
+A borrower asks you to transfer money to an account you do not recognize.
+The remaining balance is not confirmed after a partial repayment.
+One person takes a jointly purchased item and then cannot be contacted.
+Someone says signing as a guarantor carries no responsibility.
+[t41]
+A part-time job offers payment for renting out your bank card.
+A friend wants to route a payment through your payment account.
+A supposed wage settlement requires you to give up your bank card password.
+A stranger offers a commission if you withdraw cash for them.
+A gaming group recruits people to receive payments on behalf of others.
+Someone asks you to register several accounts using your own verified identity.
+A payment collection task requires you to delete all chats.
+Someone asks you to confirm an unclear transaction purpose on their behalf.
+[t42]
+A part-time job application asks for medical records unrelated to the role.
+Trial software forces access to your whole contact list.
+Collecting a resource pack requires photos of both sides of your identity document.
+A face recognition page does not explain why your face data will be used.
+A form in a campus group publicly exposes every student's phone number.
+A second-hand transaction requires a video of you holding an identity document.
+A prize draw link collects your detailed home address.
+After uninstalling an app, you discover your account information is still publicly displayed.
+[t43]
+A roommate appears in a video call asking for an urgent money transfer.
+Someone uses a synthetic teacher's voice to demand payment.
+Your photo is used in a misleading fabricated video.
+An unfamiliar account sends fabricated chat records and demands money.
+Someone posts words in a group that appear to have been spoken by you.
+A virtual livestream presenter uses an expert's likeness to recommend investments.
+A friend suddenly changes accounts and refuses confirmation through their original number.
+An unfamiliar platform offers rewards for uploading videos of your face from several angles.
+[t44]
+A classmate posts an unverified rumor in a public group.
+After an argument, someone publicly shares another person's address and phone number.
+An edited video leaves out essential context.
+An anonymous account uses your name to publish statements.
+A chat screenshot selects only the parts that make one side look bad.
+Someone calls for collective harassment in a comment section.
+A group administrator asks members to share an unverified accusation.
+Your explanation is edited again to convey the opposite meaning.
+[t45]
+A competition poster directly uses a commercial image from an unknown source.
+A free asset download page does not explain the scope of its license.
+A club uploads music in its video simply because the track was found online.
+One member claims sole authorship of a collaborative work.
+An image from a teacher's slides is used in commercial advertising.
+A commissioned design has no agreed terms for source files or permitted uses.
+An AI-generated work is questioned for being too close to its reference image.
+An online template is renamed and submitted as wholly original work.
+[t46]
+A team member leaves, but the work's author credits are not reconfirmed.
+One person keeps the competition materials and others cannot access them.
+A team uses external photos but keeps no permission records.
+A member changes the final submission file without authorization.
+The distribution of prize money differs from the original agreement.
+A work is entered into several competitions without checking the rules.
+Outsourced work is described as independently completed by a team member.
+Members' identity documents collected for registration remain in a public link for a long time.
+[t47]
+A fee-collection account in a class group uses the same profile picture as a teacher.
+A text message asks you to pay additional tuition into a personal account.
+A club asks new recruits for an unexplained security deposit.
+A campus card loss-report page asks for your bank card password.
+A fake notice threatens to cancel your student registration unless you pay that day.
+A competition registration QR code differs from the organizer's official website entry.
+A supposed certificate service group requires you to buy a specified package.
+An unfamiliar caller offers to change course grades for a fee.
+[t48]
+A holiday rental asks for an extra cleaning deposit before check-in.
+A tour changes its main sightseeing activities just before departure.
+A flight booking agent takes payment but keeps failing to issue a ticket.
+A hotel's website photos differ significantly from the actual room.
+A carpool group raises the fare at short notice and demands cash.
+Explanations of cancellation deductions change over time.
+An outdoor activity organizer gives no clear meeting point or contact arrangements.
+A cheap travel package actually requires participation in shopping activities.
+[t49]
+The purpose of a large transfer during a relationship is left unclear.
+A couple renting together does not agree who will receive the returned deposit.
+After a breakup, both sides interpret gifts and loans differently.
+One partner asks the other to take out a loan they cannot afford.
+A jointly purchased device is paid for by one person but kept by the other.
+Someone threatens to expose intimate photos unless you keep transferring money.
+After one person advances travel costs, both sides disagree on how to split them.
+A partner asks you to delete earlier chats about loans and money transfers.
+[t50]
+An admissions salesperson verbally guarantees that you will pass an exam.
+After driving school enrollment, previously undisclosed materials fees are charged.
+An exam preparation course asks for payment into a personal account.
+The number of scheduled teaching hours differs from the advertisement.
+When canceling a course, you are told that free materials will be deducted at a high price.
+An organization presents an ordinary training course as official certification.
+Installment enrollment shows only the monthly payment and not the total cost.
+Only after enrollment do you discover that the teaching provider and contracting business differ.
