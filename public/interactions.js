@@ -1,0 +1,2 @@
+/* Feedback does not replace accessible focus or click targets. */
+document.addEventListener('pointerdown',event=>{const b=event.target.closest('button,.btn');if(!b||b.disabled||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const rect=b.getBoundingClientRect(),wave=document.createElement('span');wave.className='click-wave';wave.setAttribute('aria-hidden','true');wave.style.left=(event.clientX-rect.left)+'px';wave.style.top=(event.clientY-rect.top)+'px';b.style.overflow='hidden';b.appendChild(wave);setTimeout(()=>wave.remove(),650)});

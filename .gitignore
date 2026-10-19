@@ -1,0 +1,7 @@
+
+.env
+.env.local
+
+portable/site-worker.mjs
+dist/
+node_modules/

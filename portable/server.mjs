@@ -1,0 +1,9 @@
+/* Dependency-free Node >=22 host. Keep API credentials in the host's secret store. */
+import http from 'node:http';
+import worker from './site-worker.mjs';
+import {makeRelay} from './relay.mjs';
+const relay=makeRelay(process.env.API_RELAY_ORIGIN);
+const runtime={...process.env};if(relay)runtime.FAYI_RELAY=relay.request;
+const port=Number(process.env.PORT||8080);
+const server=http.createServer(async(req,res)=>{try{const headers=new Headers();for(const [key,value] of Object.entries(req.headers)){if(value!==undefined)headers.set(key,Array.isArray(value)?value.join(', '):value)}const trustedProxy=process.env.TRUST_PROXY==='true';const host=req.headers.host||`localhost:${port}`;const protocol=trustedProxy&&req.headers['x-forwarded-proto']==='https'?'https':'http';headers.set('cf-connecting-ip',trustedProxy?String(req.headers['x-forwarded-for']||req.socket.remoteAddress).split(',')[0].trim():req.socket.remoteAddress||'local');const chunks=[];let length=0;for await(const c of req){length+=c.length;if(length>16384){res.writeHead(413);res.end('Request too large');return}chunks.push(c)}const request=new Request(`${protocol}://${host}${req.url}`,{method:req.method,headers,...(!['GET','HEAD'].includes(req.method)?{body:Buffer.concat(chunks)}:{})});if(relay&&new URL(request.url).pathname.startsWith('/api/')){const state=await relay.refresh();runtime.FAYI_RELAY_CAPS=state.caps;}const response=await worker.fetch(request,runtime);const output=Object.fromEntries(response.headers);if(response.headers.getSetCookie)output['set-cookie']=response.headers.getSetCookie();res.writeHead(response.status,output);res.end(Buffer.from(await response.arrayBuffer()))}catch{res.writeHead(500,{'Content-Type':'text/plain'});res.end('Service unavailable')}});
+server.listen(port,'0.0.0.0',()=>console.log(`FAYI server listening on port ${port}`));
